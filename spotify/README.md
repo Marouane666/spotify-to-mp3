@@ -9,7 +9,7 @@
 
 
 
-![ff](https://user-images.githubusercontent.com/58567636/195393125-40e18191-ae4c-4be4-add7-b1249d93b41e.png)
+![ff](https://user-images.githubusercontent.com/58567636/195558083-30429d70-51da-42d0-8905-d9158ca4cf89.png)
 
 <p> Ater getting the data in the form of cookies, the application transform it to a .csv file with the help of Pandas library </p>
 <H2> What is Pandas ? </H2>
@@ -19,4 +19,5 @@
 <p> The app Web scape the links of the songs from the .csv with the help of the urlib.request.</p>
 <p> urlib.request module defines functions and classes which help in opening URLs (mostly HTTP) in a complex world — basic and digest authentication, redirections, cookies and more. </p>
 <p>After the application gets all the links, it uses youtube_dl library to download the songs from youtube and send it to the folder wanted by the user .</p>
+
 
